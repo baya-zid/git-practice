@@ -12,3 +12,7 @@ print("Hello, GitHub!")
 print(f"My name is {name}.")
 print("I am learning Git and Machine Learning.")
 print("I am learning Git and Machine Learning.")
+age = 25
+print(f"I am {age} years old.")
+id = "241-15-237"
+print(f"My ID is {id}.")
